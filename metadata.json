@@ -1,0 +1,8 @@
+{
+  "name": "Futurenza - College Internship & Apprenticeship Discovery",
+  "description": "Find internships that fit your future. Skill-gap analysis, personalized recommendations, resume management, alerts, and application tracking for college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,2 +1,20 @@
-# FUTURENZA-.
-Futurenza is an AI-powered internship and apprenticeship platform that helps students discover opportunities matched to their skills, interests, qualifications, and location. Features include personalized recommendations, skill-gap analysis, resume management, internship alerts, and application tracking.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/dc6fab63-3773-4f2e-b299-ce9078b032a0
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
